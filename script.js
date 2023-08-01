@@ -17,7 +17,7 @@ bulbColor.style['background-color'] = 'darkgreen';
 let pokeNames = document.getElementsByClassName('pokemon_names');
 for(let i = 0; i<pokeNames.length; i++){
     pokeNames[i].style['color'] = 'yellow';
-    // pokeNames[i].innerHTML = '!'
+    pokeNames[i].innerHTML += '!'
 }
 
 let pokeBorder = document.getElementsByClassName('pokemon_images');
