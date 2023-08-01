@@ -25,5 +25,5 @@ for(let a = 0; a < pokeBorder.length; a++){
     pokeBorder[a].style['border'] = '5px dotted yellow';
 }
 
-const para = document.createElement('p');
+
 
