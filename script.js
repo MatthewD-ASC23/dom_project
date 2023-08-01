@@ -27,5 +27,3 @@ for(let a = 0; a < pokeBorder.length; a++){
 
 const para = document.createElement('p');
 
-// let footer = document.querySelector('footer');
-// footer.innerHTML = 'All Star Code - Ugly HTML Project';
